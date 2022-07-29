@@ -1,0 +1,63 @@
+body {
+    background-color: #d8caa2;
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.secao {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.imagem-banner {
+    width: 700px;
+}
+
+a {
+    margin: 0 10px;
+    color: #542f0c;
+}
+
+h1 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #da7913;
+}
+
+h2 {
+    font-weight: normal;
+    color: #da7913;
+    margin-top: 10px;
+} 
+
+.imagem-produtos {
+    width: 700px;
+}
+
+.imagem-logotipo {
+    width: 200px;
+}
+
+.secao-destaque {
+    background-color: #de8e37;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;;
+}
+
+.secao-destaque p {
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.secao-destaque img{
+    width: 400px;
+}
+
+span {
+    font-weight: bold;
+}
